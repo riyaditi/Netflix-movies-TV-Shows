@@ -78,8 +78,4 @@ Automated ETL pipeline
 Advanced analytics & visualizations
 
 Author
-**Riya D*
-
-👤 Author
-Riya
-Aspiring Data Analyst | SQL | Python | Power BI
+*Riya D*
