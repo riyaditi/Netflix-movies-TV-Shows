@@ -1,5 +1,6 @@
 # Netflix-movies-TV-Shows
 📊 Netflix Data Analysis using SQL Server & Python
+
 📌 Project Overview
 
 This project focuses on end-to-end data analysis of Netflix titles using SQL Server and Python.
@@ -75,6 +76,9 @@ Indexing for performance optimization
 Normalized schema for cast & genres
 Automated ETL pipeline
 Advanced analytics & visualizations
+
+Author
+**Riya D*
 
 👤 Author
 Riya
